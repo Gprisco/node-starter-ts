@@ -1,0 +1,5 @@
+# Compiled application
+dist
+
+# Dependencies
+node_modules

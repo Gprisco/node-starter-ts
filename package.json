@@ -1,0 +1,22 @@
+{
+  "name": "starter-ts",
+  "version": "1.0.0",
+  "description": "Nodejs starter project with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "start:dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starter",
+    "typescript"
+  ],
+  "author": "Giovanni Prisco",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.1.5"
+  }
+}
